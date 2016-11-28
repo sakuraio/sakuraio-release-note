@@ -1,5 +1,9 @@
 # Release Note of Firmware of SCM-LTE-Beta
 
+## v1.1.1 (2016-11-28)
+
+* Disable I2C pull-up resistors.
+
 
 ## v1.1.0 (2016-11-25)
 
