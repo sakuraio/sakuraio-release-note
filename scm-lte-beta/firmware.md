@@ -1,5 +1,13 @@
 # Release Note of Firmware of SCM-LTE-Beta
 
+
+## v1.1.2 (2017-02-23)
+
+* Support enqueueing multiple channnels.
+* Improve the stability.
+* Improve the internal protocol.
+
+
 ## v1.1.1 (2016-11-28)
 
 * Disable I2C pull-up resistors.
