@@ -1,5 +1,7 @@
-# SakuraIO Release Note
-Release Notes of SAKURA IoT Platform and Communication Modules
+# sakura.io Release Note
+Release Notes of [sakura.io](https://sakura.io/) And Communication Modules
+
+[sakura.io](https://sakura.io/) is the IoT platform of SAKURA Internet Inc.
 
 
 ## Modules
