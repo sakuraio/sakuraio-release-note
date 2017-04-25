@@ -1,10 +1,16 @@
 # Release Note of Firmware of SCM-LTE-Beta
 
+## v1.2.1 (2017-04-25)
+
+* Support file download.
+* Improve the stability.
+
+
 ## v1.2.0 (2017-04-18)
 
-* Support location service
-* Support `SCM-LTE-01` module
-* Improve the stability of firmware update
+* Support location service.
+* Support `SCM-LTE-01` module.
+* Improve the stability of firmware update.
 
 
 ## v1.1.2 (2017-02-23)
