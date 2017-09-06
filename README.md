@@ -6,4 +6,5 @@ Release Notes of [sakura.io](https://sakura.io/) And Communication Modules
 
 ## Modules
 
-* [SCM-LTE-Beta](scm-lte-beta/firmware.md)
+* [SCM-LTE-Beta and SCM-LTE-01](scm-lte-beta/firmware.md)
+

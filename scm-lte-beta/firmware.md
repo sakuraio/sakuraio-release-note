@@ -1,4 +1,11 @@
-# Release Note of Firmware of SCM-LTE-Beta
+# Release Note of Firmware for SCM-LTE-Beta and SCM-LTE-01
+
+## v1.3.0 (2017-09-06)
+
+* Support GPIO mode.
+* Fix response of `Get Tx status` command.
+* Enable MODE_IN pull-up resistors.
+
 
 ## v1.2.1 (2017-04-25)
 
