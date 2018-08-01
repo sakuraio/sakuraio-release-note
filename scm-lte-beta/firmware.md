@@ -1,5 +1,18 @@
 # Release Note of Firmware for SCM-LTE-Beta and SCM-LTE-01
 
+## v1.4.2 (2018-07-04)
+
+* Improve the stability of SPI over 1MHz clock. (Enbugged at v1.4.0)
+
+## v1.4.1 (2018-06-21)
+
+* Improve the stability of Power-saving features. (SCM-LTE-Beta Only)
+
+## v1.4.0 (2018-04-27)
+
+* Support Auto Sleep Mode (Power-saving features).
+* Add `Set power save mode` command.
+
 ## v1.3.0 (2017-09-06)
 
 * Support GPIO mode.
