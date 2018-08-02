@@ -1,5 +1,9 @@
 # Release Note of Firmware for SCM-LTE-Beta and SCM-LTE-01
 
+## v1.4.3 (2018-07-27)
+
+* Supports up to 100 file download ids.
+
 ## v1.4.2 (2018-07-04)
 
 * Improve the stability of SPI over 1MHz clock. (Enbugged at v1.4.0)
