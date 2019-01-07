@@ -11,6 +11,7 @@
 ## v1.4.1 (2018-06-21)
 
 * Improve the stability of Power-saving features. (SCM-LTE-Beta Only)
+* Improve the stability of reconecting.
 
 ## v1.4.0 (2018-04-27)
 
