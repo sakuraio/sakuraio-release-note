@@ -1,5 +1,10 @@
 # Release Note of Firmware for SCM-LTE-Beta and SCM-LTE-01
 
+## v1.4.4 (2019-05-23)
+
+* Added the function to reset when communication is not possible.
+* Fixed command bounds check.
+
 ## v1.4.3 (2018-07-27)
 
 * Supports up to 100 file download ids.
