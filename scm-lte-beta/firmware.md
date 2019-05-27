@@ -1,6 +1,6 @@
 # Release Note of Firmware for SCM-LTE-Beta and SCM-LTE-01
 
-## v1.4.4 (2019-05-23)
+## v1.4.4 (2019-05-27)
 
 * Added the function to reset when communication is not possible.
 * Fixed command bounds check.
