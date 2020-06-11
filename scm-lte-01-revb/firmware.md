@@ -7,3 +7,7 @@
 ## v1.5.2 (2020-03-03)
 
 * Fix for `Get Product ID` command returning wrong value.
+
+## v1.5.3 (2020-06-11)
+
+* Improved connection time variation.
